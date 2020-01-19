@@ -11,7 +11,7 @@ def assembled_aoh
   people =[
     DON_G, JOELLE_VD, PAT_M, KATE_G, BRUCE_G
     ]
-return people
+  return people
 end
 
 def literal_aoh
