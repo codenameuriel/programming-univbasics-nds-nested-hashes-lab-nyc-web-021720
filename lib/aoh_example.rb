@@ -9,12 +9,12 @@ BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred" }
 def assembled_aoh
   
   people =[
+    BRUCE_G,
     DON_G,
     JOELLE_VD,
-    PAT_M,
     KATE_G,
-    BRUCE_G
-  ]
+    PAT_M
+    ]
 return people
 end
 
